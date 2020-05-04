@@ -41,6 +41,7 @@ body {
 
 .details > p {
     font-weight: 300;
+    font-style: italic;
     letter-spacing: 0.05em;
 }
 
@@ -52,6 +53,7 @@ body {
 
 section > h1 {
     margin-top: 2em;
+    font-style: italic;
 }
 
 #footer {
